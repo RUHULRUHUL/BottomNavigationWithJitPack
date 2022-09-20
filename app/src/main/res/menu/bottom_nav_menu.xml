@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/oneFragment"
+        android:icon="@drawable/ic_baseline_blind_24"
+        android:title="One" />
+    <item
+        android:id="@+id/twoFragment"
+        android:icon="@drawable/ic_baseline_two_wheeler_24"
+        android:title="Two" />
+    <item
+        android:id="@+id/threeFragment"
+        android:icon="@drawable/ic_baseline_transfer_within_a_station_24"
+        android:title="Three" />
+</menu>
